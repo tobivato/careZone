@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.m \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/ios/build/careZone/Build/Products/Debug-iphonesimulator/include/fishhook/fishhook.h \
+  /Users/oluwatobiadeoye/Desktop/working/CareZone/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

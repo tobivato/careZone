@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>036632A0-54BE-4C40-BC82-3F53EFFBF2F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>036632A0-54BE-4C40-BC82-3F53EFFBF2F1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>careZone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>careZone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project careZone with scheme careZone and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>581063633.64338803</real>
+			<key>timeStoppedRecording</key>
+			<real>581064520.37791598</real>
+			<key>title</key>
+			<string>Building project careZone with scheme careZone and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>036632A0-54BE-4C40-BC82-3F53EFFBF2F1</string>
+		</dict>
+		<key>040691C2-8F45-4F89-988D-61FB73BC0F8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>040691C2-8F45-4F89-988D-61FB73BC0F8D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>careZone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>careZone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project careZone with scheme careZone and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580796485.90071201</real>
+			<key>timeStoppedRecording</key>
+			<real>580798290.81583798</real>
+			<key>title</key>
+			<string>Building project careZone with scheme careZone and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>040691C2-8F45-4F89-988D-61FB73BC0F8D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
